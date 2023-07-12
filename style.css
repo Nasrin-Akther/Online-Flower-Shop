@@ -103,4 +103,19 @@ body {
     text-decoration-line: underline; 
 }
 
+.image-pic2{
+    width: 850px;
+    height: 250px;
+    margin-top: 250px;
+    margin-left: 750px;
+    padding-top: 50px;
+    padding-left: 170px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);  
+    gap: 70px;
+    text-align: center;
+}
+
 
