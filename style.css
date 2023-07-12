@@ -249,10 +249,51 @@ body {
 }
 
 .btn6{
-    width: 140px;
-    height: 59px;
+    width: 150px;
+    height: 64px;
     border-radius: 8px;
     background: #E55473; 
-    margin-left: 1350px;
+    margin-left: 1370px;
+}
+
+.ft-bg{
+    width: auto;
+    height: 400px;
+    margin-top: 120px;
+    background: #111010;
+}
+
+.ft-title{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    margin-left: 1050px;
+    padding-top: 125px;
+    gap: 24px;
+}
+
+.sp{
+    color: #FFF;
+}
+
+.ft-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+    width: 625px;
+    flex-direction: column;
+    margin-left: 920px;
+    gap: 38px;
+}
+
+.copy{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    margin-right: 100px;
 }
 
